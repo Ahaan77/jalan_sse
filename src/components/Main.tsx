@@ -1,6 +1,6 @@
 import RoofSelector from "./RoofSelector"
 
-const Page = () => {
+const Main = () => {
     return (
         <div className='w-full flex justify-center items-center'>
             <RoofSelector />
@@ -9,4 +9,4 @@ const Page = () => {
 
 }
 
-export default Page
+export default Main

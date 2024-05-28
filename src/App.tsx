@@ -1,12 +1,12 @@
 import './App.css';
 import Topbar from './components/Topbar';
-import Page from './components/Page';
+import Main from './components/Main';
 
 function App() {
   return (
     <div className="font-anybody">
       <Topbar />
-      <Page />
+      <Main />
     </div>
   );
 }
